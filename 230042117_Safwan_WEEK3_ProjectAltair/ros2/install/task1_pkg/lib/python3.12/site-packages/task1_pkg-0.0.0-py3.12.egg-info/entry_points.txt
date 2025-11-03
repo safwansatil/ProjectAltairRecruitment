@@ -1,0 +1,3 @@
+[console_scripts]
+listener = task1_pkg.subscriber:main
+talker = task1_pkg.publisher:main
