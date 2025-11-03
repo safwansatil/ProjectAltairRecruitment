@@ -1,0 +1,2 @@
+[console_scripts]
+odometry_pub = task5_urdf.odometry_publisher:main

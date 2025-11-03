@@ -1,0 +1,36 @@
+[0.537s] Invoking command in '/home/safwansatil/Desktop/ProjectAltairRecruitment/230042117_Safwan_WEEK3_ProjectAltair/ros2/src/task5_urdf': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/safwansatil/Desktop/ProjectAltairRecruitment/230042117_Safwan_WEEK3_ProjectAltair/ros2/build/task5_urdf/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/safwansatil/Desktop/ProjectAltairRecruitment/230042117_Safwan_WEEK3_ProjectAltair/ros2/install/task5_urdf/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/task5_urdf build --build-base /home/safwansatil/Desktop/ProjectAltairRecruitment/230042117_Safwan_WEEK3_ProjectAltair/ros2/build/task5_urdf/build install --record /home/safwansatil/Desktop/ProjectAltairRecruitment/230042117_Safwan_WEEK3_ProjectAltair/ros2/build/task5_urdf/install.log --single-version-externally-managed install_data
+[0.711s] running egg_info
+[0.711s] creating ../../build/task5_urdf/task5_urdf.egg-info
+[0.723s] writing ../../build/task5_urdf/task5_urdf.egg-info/PKG-INFO
+[0.723s] writing dependency_links to ../../build/task5_urdf/task5_urdf.egg-info/dependency_links.txt
+[0.723s] writing requirements to ../../build/task5_urdf/task5_urdf.egg-info/requires.txt
+[0.723s] writing top-level names to ../../build/task5_urdf/task5_urdf.egg-info/top_level.txt
+[0.723s] writing manifest file '../../build/task5_urdf/task5_urdf.egg-info/SOURCES.txt'
+[0.747s] reading manifest file '../../build/task5_urdf/task5_urdf.egg-info/SOURCES.txt'
+[0.747s] writing manifest file '../../build/task5_urdf/task5_urdf.egg-info/SOURCES.txt'
+[0.747s] running build
+[0.747s] running build_py
+[0.748s] creating /home/safwansatil/Desktop/ProjectAltairRecruitment/230042117_Safwan_WEEK3_ProjectAltair/ros2/build/task5_urdf/build
+[0.748s] creating /home/safwansatil/Desktop/ProjectAltairRecruitment/230042117_Safwan_WEEK3_ProjectAltair/ros2/build/task5_urdf/build/lib
+[0.748s] creating /home/safwansatil/Desktop/ProjectAltairRecruitment/230042117_Safwan_WEEK3_ProjectAltair/ros2/build/task5_urdf/build/lib/task5_urdf
+[0.748s] copying task5_urdf/__init__.py -> /home/safwansatil/Desktop/ProjectAltairRecruitment/230042117_Safwan_WEEK3_ProjectAltair/ros2/build/task5_urdf/build/lib/task5_urdf
+[0.748s] running install
+[0.752s] running install_lib
+[0.764s] creating /home/safwansatil/Desktop/ProjectAltairRecruitment/230042117_Safwan_WEEK3_ProjectAltair/ros2/install/task5_urdf/lib/python3.12/site-packages/task5_urdf
+[0.764s] copying /home/safwansatil/Desktop/ProjectAltairRecruitment/230042117_Safwan_WEEK3_ProjectAltair/ros2/build/task5_urdf/build/lib/task5_urdf/__init__.py -> /home/safwansatil/Desktop/ProjectAltairRecruitment/230042117_Safwan_WEEK3_ProjectAltair/ros2/install/task5_urdf/lib/python3.12/site-packages/task5_urdf
+[0.764s] byte-compiling /home/safwansatil/Desktop/ProjectAltairRecruitment/230042117_Safwan_WEEK3_ProjectAltair/ros2/install/task5_urdf/lib/python3.12/site-packages/task5_urdf/__init__.py to __init__.cpython-312.pyc
+[0.765s] running install_data
+[0.765s] creating /home/safwansatil/Desktop/ProjectAltairRecruitment/230042117_Safwan_WEEK3_ProjectAltair/ros2/install/task5_urdf/share/ament_index
+[0.765s] creating /home/safwansatil/Desktop/ProjectAltairRecruitment/230042117_Safwan_WEEK3_ProjectAltair/ros2/install/task5_urdf/share/ament_index/resource_index
+[0.765s] creating /home/safwansatil/Desktop/ProjectAltairRecruitment/230042117_Safwan_WEEK3_ProjectAltair/ros2/install/task5_urdf/share/ament_index/resource_index/packages
+[0.765s] copying resource/task5_urdf -> /home/safwansatil/Desktop/ProjectAltairRecruitment/230042117_Safwan_WEEK3_ProjectAltair/ros2/install/task5_urdf/share/ament_index/resource_index/packages
+[0.765s] copying package.xml -> /home/safwansatil/Desktop/ProjectAltairRecruitment/230042117_Safwan_WEEK3_ProjectAltair/ros2/install/task5_urdf/share/task5_urdf
+[0.765s] creating /home/safwansatil/Desktop/ProjectAltairRecruitment/230042117_Safwan_WEEK3_ProjectAltair/ros2/install/task5_urdf/share/task5_urdf/launch
+[0.765s] copying launch/display_robot.launch.py -> /home/safwansatil/Desktop/ProjectAltairRecruitment/230042117_Safwan_WEEK3_ProjectAltair/ros2/install/task5_urdf/share/task5_urdf/launch
+[0.766s] creating /home/safwansatil/Desktop/ProjectAltairRecruitment/230042117_Safwan_WEEK3_ProjectAltair/ros2/install/task5_urdf/share/task5_urdf/description
+[0.766s] copying description/my_simple_robot.urdf -> /home/safwansatil/Desktop/ProjectAltairRecruitment/230042117_Safwan_WEEK3_ProjectAltair/ros2/install/task5_urdf/share/task5_urdf/description
+[0.766s] running install_egg_info
+[0.778s] Copying ../../build/task5_urdf/task5_urdf.egg-info to /home/safwansatil/Desktop/ProjectAltairRecruitment/230042117_Safwan_WEEK3_ProjectAltair/ros2/install/task5_urdf/lib/python3.12/site-packages/task5_urdf-0.0.0-py3.12.egg-info
+[0.778s] running install_scripts
+[0.859s] writing list of installed files to '/home/safwansatil/Desktop/ProjectAltairRecruitment/230042117_Safwan_WEEK3_ProjectAltair/ros2/build/task5_urdf/install.log'
+[0.881s] Invoked command in '/home/safwansatil/Desktop/ProjectAltairRecruitment/230042117_Safwan_WEEK3_ProjectAltair/ros2/src/task5_urdf' returned '0': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/safwansatil/Desktop/ProjectAltairRecruitment/230042117_Safwan_WEEK3_ProjectAltair/ros2/build/task5_urdf/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/safwansatil/Desktop/ProjectAltairRecruitment/230042117_Safwan_WEEK3_ProjectAltair/ros2/install/task5_urdf/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/task5_urdf build --build-base /home/safwansatil/Desktop/ProjectAltairRecruitment/230042117_Safwan_WEEK3_ProjectAltair/ros2/build/task5_urdf/build install --record /home/safwansatil/Desktop/ProjectAltairRecruitment/230042117_Safwan_WEEK3_ProjectAltair/ros2/build/task5_urdf/install.log --single-version-externally-managed install_data

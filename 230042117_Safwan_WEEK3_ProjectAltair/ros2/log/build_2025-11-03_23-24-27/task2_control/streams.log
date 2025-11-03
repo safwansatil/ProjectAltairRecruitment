@@ -1,0 +1,35 @@
+[0.528s] Invoking command in '/home/safwansatil/Desktop/ProjectAltairRecruitment/230042117_Safwan_WEEK3_ProjectAltair/ros2/src/task2_control': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/safwansatil/Desktop/ProjectAltairRecruitment/230042117_Safwan_WEEK3_ProjectAltair/ros2/build/task2_control/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/safwansatil/Desktop/ProjectAltairRecruitment/230042117_Safwan_WEEK3_ProjectAltair/ros2/install/task2_control/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/task2_control build --build-base /home/safwansatil/Desktop/ProjectAltairRecruitment/230042117_Safwan_WEEK3_ProjectAltair/ros2/build/task2_control/build install --record /home/safwansatil/Desktop/ProjectAltairRecruitment/230042117_Safwan_WEEK3_ProjectAltair/ros2/build/task2_control/install.log --single-version-externally-managed install_data
+[0.697s] running egg_info
+[0.697s] creating ../../build/task2_control/task2_control.egg-info
+[0.708s] writing ../../build/task2_control/task2_control.egg-info/PKG-INFO
+[0.708s] writing dependency_links to ../../build/task2_control/task2_control.egg-info/dependency_links.txt
+[0.708s] writing requirements to ../../build/task2_control/task2_control.egg-info/requires.txt
+[0.708s] writing top-level names to ../../build/task2_control/task2_control.egg-info/top_level.txt
+[0.708s] writing manifest file '../../build/task2_control/task2_control.egg-info/SOURCES.txt'
+[0.730s] reading manifest file '../../build/task2_control/task2_control.egg-info/SOURCES.txt'
+[0.731s] writing manifest file '../../build/task2_control/task2_control.egg-info/SOURCES.txt'
+[0.731s] running build
+[0.731s] running build_py
+[0.731s] creating /home/safwansatil/Desktop/ProjectAltairRecruitment/230042117_Safwan_WEEK3_ProjectAltair/ros2/build/task2_control/build
+[0.731s] creating /home/safwansatil/Desktop/ProjectAltairRecruitment/230042117_Safwan_WEEK3_ProjectAltair/ros2/build/task2_control/build/lib
+[0.731s] creating /home/safwansatil/Desktop/ProjectAltairRecruitment/230042117_Safwan_WEEK3_ProjectAltair/ros2/build/task2_control/build/lib/task2_control
+[0.731s] copying task2_control/turtle_commander.py -> /home/safwansatil/Desktop/ProjectAltairRecruitment/230042117_Safwan_WEEK3_ProjectAltair/ros2/build/task2_control/build/lib/task2_control
+[0.731s] copying task2_control/__init__.py -> /home/safwansatil/Desktop/ProjectAltairRecruitment/230042117_Safwan_WEEK3_ProjectAltair/ros2/build/task2_control/build/lib/task2_control
+[0.732s] running install
+[0.735s] running install_lib
+[0.746s] creating /home/safwansatil/Desktop/ProjectAltairRecruitment/230042117_Safwan_WEEK3_ProjectAltair/ros2/install/task2_control/lib/python3.12/site-packages/task2_control
+[0.746s] copying /home/safwansatil/Desktop/ProjectAltairRecruitment/230042117_Safwan_WEEK3_ProjectAltair/ros2/build/task2_control/build/lib/task2_control/turtle_commander.py -> /home/safwansatil/Desktop/ProjectAltairRecruitment/230042117_Safwan_WEEK3_ProjectAltair/ros2/install/task2_control/lib/python3.12/site-packages/task2_control
+[0.746s] copying /home/safwansatil/Desktop/ProjectAltairRecruitment/230042117_Safwan_WEEK3_ProjectAltair/ros2/build/task2_control/build/lib/task2_control/__init__.py -> /home/safwansatil/Desktop/ProjectAltairRecruitment/230042117_Safwan_WEEK3_ProjectAltair/ros2/install/task2_control/lib/python3.12/site-packages/task2_control
+[0.747s] byte-compiling /home/safwansatil/Desktop/ProjectAltairRecruitment/230042117_Safwan_WEEK3_ProjectAltair/ros2/install/task2_control/lib/python3.12/site-packages/task2_control/turtle_commander.py to turtle_commander.cpython-312.pyc
+[0.747s] byte-compiling /home/safwansatil/Desktop/ProjectAltairRecruitment/230042117_Safwan_WEEK3_ProjectAltair/ros2/install/task2_control/lib/python3.12/site-packages/task2_control/__init__.py to __init__.cpython-312.pyc
+[0.747s] running install_data
+[0.747s] creating /home/safwansatil/Desktop/ProjectAltairRecruitment/230042117_Safwan_WEEK3_ProjectAltair/ros2/install/task2_control/share/ament_index
+[0.747s] creating /home/safwansatil/Desktop/ProjectAltairRecruitment/230042117_Safwan_WEEK3_ProjectAltair/ros2/install/task2_control/share/ament_index/resource_index
+[0.747s] creating /home/safwansatil/Desktop/ProjectAltairRecruitment/230042117_Safwan_WEEK3_ProjectAltair/ros2/install/task2_control/share/ament_index/resource_index/packages
+[0.747s] copying resource/task2_control -> /home/safwansatil/Desktop/ProjectAltairRecruitment/230042117_Safwan_WEEK3_ProjectAltair/ros2/install/task2_control/share/ament_index/resource_index/packages
+[0.747s] copying package.xml -> /home/safwansatil/Desktop/ProjectAltairRecruitment/230042117_Safwan_WEEK3_ProjectAltair/ros2/install/task2_control/share/task2_control
+[0.747s] running install_egg_info
+[0.759s] Copying ../../build/task2_control/task2_control.egg-info to /home/safwansatil/Desktop/ProjectAltairRecruitment/230042117_Safwan_WEEK3_ProjectAltair/ros2/install/task2_control/lib/python3.12/site-packages/task2_control-0.0.0-py3.12.egg-info
+[0.759s] running install_scripts
+[0.836s] writing list of installed files to '/home/safwansatil/Desktop/ProjectAltairRecruitment/230042117_Safwan_WEEK3_ProjectAltair/ros2/build/task2_control/install.log'
+[0.856s] Invoked command in '/home/safwansatil/Desktop/ProjectAltairRecruitment/230042117_Safwan_WEEK3_ProjectAltair/ros2/src/task2_control' returned '0': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/safwansatil/Desktop/ProjectAltairRecruitment/230042117_Safwan_WEEK3_ProjectAltair/ros2/build/task2_control/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/safwansatil/Desktop/ProjectAltairRecruitment/230042117_Safwan_WEEK3_ProjectAltair/ros2/install/task2_control/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/task2_control build --build-base /home/safwansatil/Desktop/ProjectAltairRecruitment/230042117_Safwan_WEEK3_ProjectAltair/ros2/build/task2_control/build install --record /home/safwansatil/Desktop/ProjectAltairRecruitment/230042117_Safwan_WEEK3_ProjectAltair/ros2/build/task2_control/install.log --single-version-externally-managed install_data

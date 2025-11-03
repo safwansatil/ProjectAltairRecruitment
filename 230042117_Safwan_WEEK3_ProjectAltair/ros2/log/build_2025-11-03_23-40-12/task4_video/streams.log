@@ -1,0 +1,41 @@
+[0.500s] Invoking command in '/home/safwansatil/Desktop/ProjectAltairRecruitment/230042117_Safwan_WEEK3_ProjectAltair/ros2/src/task4_video': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/safwansatil/Desktop/ProjectAltairRecruitment/230042117_Safwan_WEEK3_ProjectAltair/ros2/build/task4_video/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/safwansatil/Desktop/ProjectAltairRecruitment/230042117_Safwan_WEEK3_ProjectAltair/ros2/install/task4_video/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/task4_video build --build-base /home/safwansatil/Desktop/ProjectAltairRecruitment/230042117_Safwan_WEEK3_ProjectAltair/ros2/build/task4_video/build install --record /home/safwansatil/Desktop/ProjectAltairRecruitment/230042117_Safwan_WEEK3_ProjectAltair/ros2/build/task4_video/install.log --single-version-externally-managed install_data
+[0.671s] running egg_info
+[0.671s] creating ../../build/task4_video/task4_video.egg-info
+[0.682s] writing ../../build/task4_video/task4_video.egg-info/PKG-INFO
+[0.682s] writing dependency_links to ../../build/task4_video/task4_video.egg-info/dependency_links.txt
+[0.682s] writing entry points to ../../build/task4_video/task4_video.egg-info/entry_points.txt
+[0.682s] writing requirements to ../../build/task4_video/task4_video.egg-info/requires.txt
+[0.682s] writing top-level names to ../../build/task4_video/task4_video.egg-info/top_level.txt
+[0.682s] writing manifest file '../../build/task4_video/task4_video.egg-info/SOURCES.txt'
+[0.704s] reading manifest file '../../build/task4_video/task4_video.egg-info/SOURCES.txt'
+[0.705s] writing manifest file '../../build/task4_video/task4_video.egg-info/SOURCES.txt'
+[0.705s] running build
+[0.705s] running build_py
+[0.706s] creating /home/safwansatil/Desktop/ProjectAltairRecruitment/230042117_Safwan_WEEK3_ProjectAltair/ros2/build/task4_video/build
+[0.706s] creating /home/safwansatil/Desktop/ProjectAltairRecruitment/230042117_Safwan_WEEK3_ProjectAltair/ros2/build/task4_video/build/lib
+[0.706s] creating /home/safwansatil/Desktop/ProjectAltairRecruitment/230042117_Safwan_WEEK3_ProjectAltair/ros2/build/task4_video/build/lib/task4_video
+[0.706s] copying task4_video/video_publisher.py -> /home/safwansatil/Desktop/ProjectAltairRecruitment/230042117_Safwan_WEEK3_ProjectAltair/ros2/build/task4_video/build/lib/task4_video
+[0.706s] copying task4_video/video_subscriber.py -> /home/safwansatil/Desktop/ProjectAltairRecruitment/230042117_Safwan_WEEK3_ProjectAltair/ros2/build/task4_video/build/lib/task4_video
+[0.706s] copying task4_video/__init__.py -> /home/safwansatil/Desktop/ProjectAltairRecruitment/230042117_Safwan_WEEK3_ProjectAltair/ros2/build/task4_video/build/lib/task4_video
+[0.706s] running install
+[0.710s] running install_lib
+[0.721s] creating /home/safwansatil/Desktop/ProjectAltairRecruitment/230042117_Safwan_WEEK3_ProjectAltair/ros2/install/task4_video/lib/python3.12/site-packages/task4_video
+[0.721s] copying /home/safwansatil/Desktop/ProjectAltairRecruitment/230042117_Safwan_WEEK3_ProjectAltair/ros2/build/task4_video/build/lib/task4_video/video_publisher.py -> /home/safwansatil/Desktop/ProjectAltairRecruitment/230042117_Safwan_WEEK3_ProjectAltair/ros2/install/task4_video/lib/python3.12/site-packages/task4_video
+[0.722s] copying /home/safwansatil/Desktop/ProjectAltairRecruitment/230042117_Safwan_WEEK3_ProjectAltair/ros2/build/task4_video/build/lib/task4_video/video_subscriber.py -> /home/safwansatil/Desktop/ProjectAltairRecruitment/230042117_Safwan_WEEK3_ProjectAltair/ros2/install/task4_video/lib/python3.12/site-packages/task4_video
+[0.722s] copying /home/safwansatil/Desktop/ProjectAltairRecruitment/230042117_Safwan_WEEK3_ProjectAltair/ros2/build/task4_video/build/lib/task4_video/__init__.py -> /home/safwansatil/Desktop/ProjectAltairRecruitment/230042117_Safwan_WEEK3_ProjectAltair/ros2/install/task4_video/lib/python3.12/site-packages/task4_video
+[0.722s] byte-compiling /home/safwansatil/Desktop/ProjectAltairRecruitment/230042117_Safwan_WEEK3_ProjectAltair/ros2/install/task4_video/lib/python3.12/site-packages/task4_video/video_publisher.py to video_publisher.cpython-312.pyc
+[0.722s] byte-compiling /home/safwansatil/Desktop/ProjectAltairRecruitment/230042117_Safwan_WEEK3_ProjectAltair/ros2/install/task4_video/lib/python3.12/site-packages/task4_video/video_subscriber.py to video_subscriber.cpython-312.pyc
+[0.722s] byte-compiling /home/safwansatil/Desktop/ProjectAltairRecruitment/230042117_Safwan_WEEK3_ProjectAltair/ros2/install/task4_video/lib/python3.12/site-packages/task4_video/__init__.py to __init__.cpython-312.pyc
+[0.723s] running install_data
+[0.723s] creating /home/safwansatil/Desktop/ProjectAltairRecruitment/230042117_Safwan_WEEK3_ProjectAltair/ros2/install/task4_video/share/ament_index
+[0.723s] creating /home/safwansatil/Desktop/ProjectAltairRecruitment/230042117_Safwan_WEEK3_ProjectAltair/ros2/install/task4_video/share/ament_index/resource_index
+[0.723s] creating /home/safwansatil/Desktop/ProjectAltairRecruitment/230042117_Safwan_WEEK3_ProjectAltair/ros2/install/task4_video/share/ament_index/resource_index/packages
+[0.723s] copying resource/task4_video -> /home/safwansatil/Desktop/ProjectAltairRecruitment/230042117_Safwan_WEEK3_ProjectAltair/ros2/install/task4_video/share/ament_index/resource_index/packages
+[0.723s] copying package.xml -> /home/safwansatil/Desktop/ProjectAltairRecruitment/230042117_Safwan_WEEK3_ProjectAltair/ros2/install/task4_video/share/task4_video
+[0.723s] running install_egg_info
+[0.735s] Copying ../../build/task4_video/task4_video.egg-info to /home/safwansatil/Desktop/ProjectAltairRecruitment/230042117_Safwan_WEEK3_ProjectAltair/ros2/install/task4_video/lib/python3.12/site-packages/task4_video-0.0.0-py3.12.egg-info
+[0.735s] running install_scripts
+[0.813s] Installing video_pub script to /home/safwansatil/Desktop/ProjectAltairRecruitment/230042117_Safwan_WEEK3_ProjectAltair/ros2/install/task4_video/lib/task4_video
+[0.813s] Installing video_sub script to /home/safwansatil/Desktop/ProjectAltairRecruitment/230042117_Safwan_WEEK3_ProjectAltair/ros2/install/task4_video/lib/task4_video
+[0.813s] writing list of installed files to '/home/safwansatil/Desktop/ProjectAltairRecruitment/230042117_Safwan_WEEK3_ProjectAltair/ros2/build/task4_video/install.log'
+[0.833s] Invoked command in '/home/safwansatil/Desktop/ProjectAltairRecruitment/230042117_Safwan_WEEK3_ProjectAltair/ros2/src/task4_video' returned '0': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/safwansatil/Desktop/ProjectAltairRecruitment/230042117_Safwan_WEEK3_ProjectAltair/ros2/build/task4_video/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/safwansatil/Desktop/ProjectAltairRecruitment/230042117_Safwan_WEEK3_ProjectAltair/ros2/install/task4_video/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/task4_video build --build-base /home/safwansatil/Desktop/ProjectAltairRecruitment/230042117_Safwan_WEEK3_ProjectAltair/ros2/build/task4_video/build install --record /home/safwansatil/Desktop/ProjectAltairRecruitment/230042117_Safwan_WEEK3_ProjectAltair/ros2/build/task4_video/install.log --single-version-externally-managed install_data

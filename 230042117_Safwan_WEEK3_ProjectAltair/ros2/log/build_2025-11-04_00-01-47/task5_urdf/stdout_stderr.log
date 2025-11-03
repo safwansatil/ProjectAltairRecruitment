@@ -1,0 +1,20 @@
+running egg_info
+writing ../../build/task5_urdf/task5_urdf.egg-info/PKG-INFO
+writing dependency_links to ../../build/task5_urdf/task5_urdf.egg-info/dependency_links.txt
+writing requirements to ../../build/task5_urdf/task5_urdf.egg-info/requires.txt
+writing top-level names to ../../build/task5_urdf/task5_urdf.egg-info/top_level.txt
+reading manifest file '../../build/task5_urdf/task5_urdf.egg-info/SOURCES.txt'
+writing manifest file '../../build/task5_urdf/task5_urdf.egg-info/SOURCES.txt'
+running build
+running build_py
+copying task5_urdf/odometry_publisher.py -> /home/safwansatil/Desktop/ProjectAltairRecruitment/230042117_Safwan_WEEK3_ProjectAltair/ros2/build/task5_urdf/build/lib/task5_urdf
+running install
+running install_lib
+copying /home/safwansatil/Desktop/ProjectAltairRecruitment/230042117_Safwan_WEEK3_ProjectAltair/ros2/build/task5_urdf/build/lib/task5_urdf/odometry_publisher.py -> /home/safwansatil/Desktop/ProjectAltairRecruitment/230042117_Safwan_WEEK3_ProjectAltair/ros2/install/task5_urdf/lib/python3.12/site-packages/task5_urdf
+byte-compiling /home/safwansatil/Desktop/ProjectAltairRecruitment/230042117_Safwan_WEEK3_ProjectAltair/ros2/install/task5_urdf/lib/python3.12/site-packages/task5_urdf/odometry_publisher.py to odometry_publisher.cpython-312.pyc
+running install_data
+running install_egg_info
+removing '/home/safwansatil/Desktop/ProjectAltairRecruitment/230042117_Safwan_WEEK3_ProjectAltair/ros2/install/task5_urdf/lib/python3.12/site-packages/task5_urdf-0.0.0-py3.12.egg-info' (and everything under it)
+Copying ../../build/task5_urdf/task5_urdf.egg-info to /home/safwansatil/Desktop/ProjectAltairRecruitment/230042117_Safwan_WEEK3_ProjectAltair/ros2/install/task5_urdf/lib/python3.12/site-packages/task5_urdf-0.0.0-py3.12.egg-info
+running install_scripts
+writing list of installed files to '/home/safwansatil/Desktop/ProjectAltairRecruitment/230042117_Safwan_WEEK3_ProjectAltair/ros2/build/task5_urdf/install.log'

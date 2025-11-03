@@ -1,0 +1,2 @@
+[console_scripts]
+turtle_commander = task2_control.turtle_commander:main

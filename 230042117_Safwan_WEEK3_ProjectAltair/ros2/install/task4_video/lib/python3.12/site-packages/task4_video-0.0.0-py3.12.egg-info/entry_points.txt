@@ -1,0 +1,3 @@
+[console_scripts]
+video_pub = task4_video.video_publisher:main
+video_sub = task4_video.video_subscriber:main
